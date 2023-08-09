@@ -1,0 +1,16 @@
+.formulaire {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+
+label{
+  width: 5rem;
+}
+  div {
+
+    width: 30vw;
+    display: flex;
+    margin: 0.5rem;
+  }
+}

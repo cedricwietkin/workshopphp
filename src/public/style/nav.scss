@@ -1,0 +1,22 @@
+nav{
+  border: 2px solid $color4;
+  background-color: #a9def9;
+  color: #ff99c8;
+  height: 4rem;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  a{
+    border-radius: 1rem;
+    text-decoration: none;
+    padding: 1rem;
+    margin-left: 1rem;
+  }
+  div{
+    display: flex;
+    align-items: center;
+    border-radius: 1rem;
+
+  }
+}

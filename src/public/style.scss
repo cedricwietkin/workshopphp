@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+@import 'style/color.scss';
+@import 'style/nav.scss';
+@import 'style/register';
+* {
+  margin: 0;
+  background-color: #d0f4de;
+}
+
+h1{
+  margin: 1rem;
+  color: #2b4d21;
+
+}
+li{
+  margin:0.5rem;
+  a{
+    text-decoration: none;
+    color: #2b4d21;
+  }
+}
